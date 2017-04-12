@@ -1,0 +1,75 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+
+
+
+
+.header{
+	width: 100%;
+	background: #3b5999;
+	overflow:hidden;
+	box-sizing: border-box;
+
+}
+.logo{
+font-size: 50px;
+width: 40%;
+padding-left:100px;	
+color: white;
+padding-top: 20px;
+}
+.menubar{
+	width: 45%;
+    float: right;
+    padding-bottom: 20px;
+    top: 50px;
+    color: white
+}
+.slider_form{
+	         width: 100%;
+	         overflow: hidden;
+	         box-sizing: border-box;
+	         
+}
+.slider {
+	width:650px;
+	float: left;
+
+}
+.slider h1 {
+	font-size:23px;
+	padding-left: 25px;
+
+
+}
+.slider img{
+	width: 550px;
+	padding-left: 50px;
+}
+.form{
+	width: 40%;
+	float: right;
+	}
+
+	.bottomlinks{
+		width: 100%;
+	}
+	.fname{
+		font-size: 15px;
+		padding: 20px 10px;
+
+	}
+	#name{
+		font-size: 20px;
+	}
+	#surname{
+		font-size: 20px;
+	}
+	#email{
+		font-size: 20px;
+	}
+	#pass{
+		font-size: 20px;
+	}
